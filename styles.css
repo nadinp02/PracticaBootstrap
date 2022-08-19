@@ -1,3 +1,68 @@
-.bg-dark{
-    background-color: black;
+.body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
 }
+.navbar{
+    background-color: #000000;
+    text-align: justify;
+}
+.nav{
+    background-color: rgb(231, 79,17);
+}
+.nav-link{
+    color:white;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #000000;
+    text-align: justify;
+    color: white;
+} 
+.footer .row{
+    background-color: #000000;
+    color: white;
+    font-size: 14px;
+}
+.card-group .card-body{
+    background-color: rgb(231, 79,17);
+    color: white;
+    font-size: 14px;
+
+}
+.card-group .card-text{
+    font-size: 16px;
+}
+
+.card-group .card-title{
+    font-size: 18px;
+} 
+.card-title{
+    font-size: 35px;
+}
+.card-text{
+    font-size: 30px;
+}
+.carousel-item{
+    object-fit: contain;
+}
+
+.row{
+    background-color: rgb(231, 79,17);
+    color:white;
+    font-size: 20px;
+}
+
+.imagen-carousel {
+    min-width:1px;
+   width: 100%;
+    height: 600px;
+    object-fit: cover; 
+}
+
+
+
+
+
+
+
